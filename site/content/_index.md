@@ -1,7 +1,7 @@
 ---
 title: An Incredible Web Developer
 subtitle: Watch me dominate and educate while I stimulate
-image: /img/danbarrick2018.jpeg
+image: /img/2227_49652332731_6066_n.jpg
 blurb:
   heading: Why Dan Barrick?
   text: >-
@@ -17,14 +17,14 @@ intro:
     services. I take web production, security and design seriously and I'm glad
     to share that knowledge and power with anyone who deserves it.
 products:
-  - image: img/illustrations-coffee.svg
+  - image: /img/danbarrick2018.jpeg
     text: >-
       We sell green and roasted coffee beans that are sourced directly from
       independent farmers and farm cooperatives. We’re proud to offer a variety
       of coffee beans grown with great care for the environment and local
       communities. Check our post or contact us directly for current
       availability.
-  - image: /img/illustrations-coffee-gear.svg
+  - image: /img/products-grid2.jpg
     text: >-
       We offer a small, but carefully curated selection of brewing gear and
       tools for every taste and experience level. No matter if you roast your
